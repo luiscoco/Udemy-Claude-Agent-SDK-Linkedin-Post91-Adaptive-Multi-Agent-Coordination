@@ -1,0 +1,13 @@
+{
+  "lesson": 90,
+  "application": "Stable Adaptive Failover",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "selected": "specialist",
+    "adaptations": [],
+    "result": "The primary specialist prepared the summary.",
+    "max_reconfigurations": 1
+  },
+  "measured_cost_usd": null
+}

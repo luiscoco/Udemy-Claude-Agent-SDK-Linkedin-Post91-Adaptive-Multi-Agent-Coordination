@@ -1,0 +1,16 @@
+{
+  "lesson": 90,
+  "title": "Adaptive Multi-Agent Coordination",
+  "application": "Stable Adaptive Failover",
+  "purpose": "Reconfigure only after a concrete transient failure, record the reason and cap adaptation to one reassignment.",
+  "exercise": "Run --fail-stage primary. Confirm exactly one reassignment and no oscillation back to the original worker.",
+  "source_topics": [
+    "00-Coordinación Multiagente Adaptativa.png",
+    "01-What-Is-Adaptive-Coordination.png",
+    "02-The-Adaptive-Loop.png",
+    "03-Decide-When-to-Reconfigure.png",
+    "04-Run-the-Adaptive-Team.png",
+    "05-Avoid-Unstable-Adaptation.png",
+    "06-Adaptive-Teams-in-Practice.png"
+  ]
+}

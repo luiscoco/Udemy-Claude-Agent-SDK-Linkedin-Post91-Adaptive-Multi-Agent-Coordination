@@ -1,0 +1,5 @@
+{
+  "task": "Summarize a short support policy",
+  "primary": "specialist",
+  "backup": "generalist"
+}
